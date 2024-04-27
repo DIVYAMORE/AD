@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/optionitem1"
+    android:title="View Profile"/>
+
+    <item android:id="@+id/optionitem2"
+        android:title="Chat Theme"/>
+    <item android:id="@+id/optionitem3"
+        android:title="Search"/>
+
+    <item android:id="@+id/optionitem4"
+        android:title="New group"/>
+    <item android:id="@+id/optionitem5"
+        android:title="Linked Devices"/>
+    <item android:id="@+id/optionitem6"
+        android:title="Settings"/>
+
+
+</menu>
